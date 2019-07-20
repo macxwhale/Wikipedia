@@ -4,7 +4,6 @@ import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import com.example.wikipedia.R
-import com.example.wikipedia.activities.holders.CardHolder
 import com.example.wikipedia.activities.holders.ListItemHolder
 
 class ArticleListItemRecyclerAdapter : RecyclerView.Adapter<ListItemHolder>() {
